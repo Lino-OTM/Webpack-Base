@@ -1,7 +1,4 @@
 # Webpack-Base
-Para proyectos simples
-
-# Webpack Base
 
 Este repositorio lo utilizo para crear mis proyectos con webpack.
 
