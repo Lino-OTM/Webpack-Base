@@ -1,4 +1,4 @@
 import { saludar } from "./js/componente-base";
-import "/style.css";
+import "./style.css";
 
 saludar();
